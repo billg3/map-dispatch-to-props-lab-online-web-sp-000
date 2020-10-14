@@ -1,4 +1,4 @@
-iimport React, { Component } from 'react';
+import React, { Component } from 'react';
 import { connect } from 'react-redux';
 
 class Restaurants extends Component {
