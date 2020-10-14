@@ -16,4 +16,3 @@ ReactDOM.render(
 );
 © 2020 GitHub, Inc.
 Terms
-
